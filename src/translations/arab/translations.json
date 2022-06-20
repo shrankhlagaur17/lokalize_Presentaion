@@ -1,7 +1,7 @@
 {
-    "welcome": "مرحبًا بكم في البرنامج التعليمي",
-    "date_format_one": "{{-date, YYYY\/MM\/DD}}",
-    "date_format_two": "{{date, DD-MM-YYYY}}",
-    "my_name_is": " {{name}} اسمي",
-    "test_name": "مرحبا"
+    "welcome": "مرحبًا بك في البرنامج التعليمي",
+    "date_format_one": "{{التاريخ ، اليوم - الشهر - السنة}}",
+    "date_format_two": "{{التاريخ ، اليوم - الشهر - السنة}}",
+    "keyWithCount": "اشترت \"آن\" {{count}} من الكتب",
+    "keyWithCount_plural": "اشترت \"آن\" {{count}} من الكتب"
 }
