@@ -1,10 +1,10 @@
 {
-    "Hello": "مرحبا بالعالم",
+    "Hello": "नमस्ते दुनिया",
     "Shivansh": "",
-    "date_format_one": "{{التاريخ ، اليوم - الشهر - السنة}}",
-    "date_format_two": "{{التاريخ ، اليوم - الشهر - السنة}}",
-    "keyWithCount": "اشترت \"آن\" {{count}} من الكتب",
-    "keyWithCount_plural": "اشترت \"آن\" {{count}} من الكتب",
+    "date_format_one": "",
+    "date_format_two": "",
+    "keyWithCount": "",
+    "keyWithCount_plural": "",
     "kw_agree_valid_id": "",
     "kw_all_numbers": "",
     "kw_buttons_agree": "",
@@ -53,7 +53,7 @@
     "kw_search_digits_mnp": "",
     "kw_tab_first": "",
     "kw_tab_second": "",
-    "name": "اسمي {{name}}",
+    "name": "मेरा नाम {{name}} है",
     "ob_activate": "",
     "ob_activate_my_eSIM": "",
     "ob_activation_are_you_ready": "",
@@ -231,5 +231,5 @@
     "ob_you_can_now_download_app": "",
     "ob_your_sim_activated": "",
     "please_download_app_and_login": "",
-    "welcome": "مرحبًا بك في البرنامج التعليمي"
+    "welcome": ""
 }
