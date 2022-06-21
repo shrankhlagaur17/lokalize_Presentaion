@@ -1,7 +1,10 @@
 {
-    "welcome": "مرحبًا بك في البرنامج التعليمي",
+    "Hello": "مرحبا بالعالم",
+    "Shivansh": "",
     "date_format_one": "{{التاريخ ، اليوم - الشهر - السنة}}",
     "date_format_two": "{{التاريخ ، اليوم - الشهر - السنة}}",
     "keyWithCount": "اشترت \"آن\" {{count}} من الكتب",
-    "keyWithCount_plural": "اشترت \"آن\" {{count}} من الكتب"
+    "keyWithCount_plural": "اشترت \"آن\" {{count}} من الكتب",
+    "name": "اسمي {{name}}",
+    "welcome": "مرحبًا بك في البرنامج التعليمي"
 }
